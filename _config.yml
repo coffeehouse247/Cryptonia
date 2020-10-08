@@ -20,12 +20,12 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
-baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+url: 'https://www.kaymes.dev'
+baseurl: 'kaymes.dev'
+title: 'Kaymes'
+description: 'This is a Blog/Repository for the programming challenged'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "/images/profile_picture.PNG"
 
 # Pagination
 paginate: 5
@@ -35,10 +35,14 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: About
-  url: /about/
-- title: Blog
-  url: /blog/
+- title: Design
+  url: /Design/
+- title: Develop
+  url: /Develop/
+- title: Test
+  url: /Test/
+- title: Deploy
+  url: /Deploy/
 
 # Footer nav
 navigation_footer:

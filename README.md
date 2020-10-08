@@ -1,9 +1,14 @@
-# Starter kit for [Alembic](https://alembic.darn.es/)
+# Kaymes  
+by Kyle Matthew Schafer
 
-This is a very simple starting point if you wish to use Alembic [as a Jekyll theme gem](https://alembic.darn.es/#as-a-jekyll-theme) or as a [GitHub Pages remote theme](https://github.com/daviddarnes/alembic-kit/tree/remote-theme) (see `remote-theme` branch).
+### A few goals of this repository:
+ - [ ] Get the front end webpage completed
+ - [ ] Blog about the various developmental choices made
+ - [ ] Develop a kubernetes pod that will deploy a DMSS configuration
+ - [ ] Look fucking cool doing it all
+ 
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit)
-
-or
-
-**[Download the GitHub Pages kit](https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip)**
+### Below are links the to various Git repositories that have helped me along the way.
+Please show them some love, without them I would not be able to learn as easily as I did.
+- **[Download the GitHub Pages kit](https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip)**
+- **
